@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1756809571206",
+    "nome": "teste",
+    "preco": 0.01,
+    "descricao": "",
+    "categoria": "Geral",
+    "imagem": "",
+    "createdAt": "2025-09-02T10:39:31.206Z",
+    "updatedAt": "2025-09-02T10:39:31.206Z"
+  },
+  {
+    "id": "1756823992744",
+    "nome": "teste",
+    "preco": 0.02,
+    "descricao": "teste2",
+    "categoria": "Geral",
+    "imagem": "",
+    "createdAt": "2025-09-02T14:39:52.744Z",
+    "updatedAt": "2025-09-02T14:39:52.744Z"
+  }
+]
